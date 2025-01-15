@@ -2,7 +2,6 @@
 
 Este proyecto es una aplicación fullstack que incluye un backend con Express y MongoDB, y un frontend con Next.js. También incluye configuraciones para Docker.
 
----
 
 ## **Requerimientos Previos**
 node.js (versión 18 o superior)
@@ -60,6 +59,3 @@ GET /api/users/:id: Obtener un usuario por ID.
 PUT /api/users/:id: Actualizar un usuario por ID.
 DELETE /api/users/:id: Eliminar un usuario por ID.
 
-
-### **Autor**
-Este proyecto fue creado por [Tu Nombre]. 
